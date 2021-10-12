@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-aws-s3-customised",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "AWS S3 upload provider for strapi. CDN + prefix included.",
   "homepage": "https://strapi.io",
   "keywords": [
